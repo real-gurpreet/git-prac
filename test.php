@@ -1,5 +1,7 @@
 <?php
 
-echo "hello"
+echo "hello";
+
+hello this is second
 
 ?>
